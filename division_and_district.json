@@ -1,132 +1,380 @@
-{
-  Barisal: ['Barisal', 'Barguna', 'Bhola', 'Jhalokati', 'Patuakhali', 'Pirojpur'],
-  Chittogong: [
-    'Brahmanbaria',
-    'Comilla',
-    'Chandpur',
-    'Lakshmipur',
-    'Maijdee',
-    'Feni',
-    'Khagrachhari',
-    'Rangamati',
-    'Bandarban',
-    'Chittagong',
-    "Cox's Bazar",
-  ],
-  Dhaka: [
-    'Dhaka',
-    'Gazipur',
-    'Kishoreganj',
-    'Manikganj',
-    'Munshiganj',
-    'Narayanganj',
-    'Narsingdi',
-    'Tangail',
-    'Faridpur',
-    'Gopalganj',
-    'Madaripur',
-    'Rajbari',
-    'Shariatpur',
-  ],
-  Khulna: [
-    'Bagerhat',
-    'Chuadanga',
-    'Jessore',
-    'Jhenaidah',
-    'Khulna',
-    'Kushtia',
-    'Magura',
-    'Meherpur',
-    'Narail',
-    'Satkhira',
-  ],
-  Mymensingh: ['Mymensingh', 'Netrokona', 'Jamalpur', 'Sherpur'],
-  Rajshahi: [
-    'Bogura',
-    'Chapainawabganj',
-    'Joypurhat',
-    'Naogaon',
-    'Natore',
-    'Pabna',
-    'Rajshahi',
-    'Sirajgonj',
-  ],
-  Rangpur: [
-    'Rangpur',
-    'Dinajpur',
-    'Kurigram',
-    'Nilphamari',
-    'Gaibandha',
-    'Thakurgaon',
-    'Panchagarh',
-    'Lalmonirhat',
-  ],
-  Sylhet: ['Habiganj', 'Moulvibazar', 'Sunamganj', 'Sylhet'],
-}
-New
-3:08
-{
-  Barisal: ['Barisal', 'Barguna', 'Bhola', 'Jhalokati', 'Patuakhali', 'Pirojpur'],
-  Chittogong: [
-    'Brahmanbaria',
-    'Comilla',
-    'Chandpur',
-    'Lakshmipur',
-    'Maijdee',
-    'Feni',
-    'Khagrachhari',
-    'Rangamati',
-    'Bandarban',
-    'Chittagong',
-    "Cox's Bazar",
-  ],
-  Dhaka: [
-    'Dhaka',
-    'Gazipur',
-    'Kishoreganj',
-    'Manikganj',
-    'Munshiganj',
-    'Narayanganj',
-    'Narsingdi',
-    'Tangail',
-    'Faridpur',
-    'Gopalganj',
-    'Madaripur',
-    'Rajbari',
-    'Shariatpur',
-  ],
-  Khulna: [
-    'Bagerhat',
-    'Chuadanga',
-    'Jessore',
-    'Jhenaidah',
-    'Khulna',
-    'Kushtia',
-    'Magura',
-    'Meherpur',
-    'Narail',
-    'Satkhira',
-  ],
-  Mymensingh: ['Mymensingh', 'Netrokona', 'Jamalpur', 'Sherpur'],
-  Rajshahi: [
-    'Bogura',
-    'Chapainawabganj',
-    'Joypurhat',
-    'Naogaon',
-    'Natore',
-    'Pabna',
-    'Rajshahi',
-    'Sirajgonj',
-  ],
-  Rangpur: [
-    'Rangpur',
-    'Dinajpur',
-    'Kurigram',
-    'Nilphamari',
-    'Gaibandha',
-    'Thakurgaon',
-    'Panchagarh',
-    'Lalmonirhat',
-  ],
-  Sylhet: ['Habiganj', 'Moulvibazar', 'Sunamganj', 'Sylhet'],
-}
+[
+        {
+            "id": 1,
+            "name": "Chattagram",
+            "districts": [
+                {
+                    "id": 1,
+                    "name": "Comilla",
+                    "division_id": 1
+                },
+                {
+                    "id": 2,
+                    "name": "Comilla",
+                    "division_id": 1
+                },
+                {
+                    "id": 3,
+                    "name": "Comilla",
+                    "division_id": 1
+                },
+                {
+                    "id": 4,
+                    "name": "Feni",
+                    "division_id": 1
+                },
+                {
+                    "id": 5,
+                    "name": "Brahmanbaria",
+                    "division_id": 1
+                },
+                {
+                    "id": 6,
+                    "name": "Rangamati",
+                    "division_id": 1
+                },
+                {
+                    "id": 7,
+                    "name": "Noakhali",
+                    "division_id": 1
+                },
+                {
+                    "id": 8,
+                    "name": "Chandpur",
+                    "division_id": 1
+                },
+                {
+                    "id": 9,
+                    "name": "Lakshmipur",
+                    "division_id": 1
+                },
+                {
+                    "id": 10,
+                    "name": "Chattogram",
+                    "division_id": 1
+                },
+                {
+                    "id": 11,
+                    "name": "Coxsbazar",
+                    "division_id": 1
+                },
+                {
+                    "id": 12,
+                    "name": "Khagrachhari",
+                    "division_id": 1
+                },
+                {
+                    "id": 13,
+                    "name": "Bandarban",
+                    "division_id": 1
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Rajshahi",
+            "districts": [
+                {
+                    "id": 14,
+                    "name": "Sirajganj",
+                    "division_id": 2
+                },
+                {
+                    "id": 15,
+                    "name": "Pabna",
+                    "division_id": 2
+                },
+                {
+                    "id": 16,
+                    "name": "Bogura",
+                    "division_id": 2
+                },
+                {
+                    "id": 17,
+                    "name": "Rajshahi",
+                    "division_id": 2
+                },
+                {
+                    "id": 18,
+                    "name": "Natore",
+                    "division_id": 2
+                },
+                {
+                    "id": 19,
+                    "name": "Joypurhat",
+                    "division_id": 2
+                },
+                {
+                    "id": 20,
+                    "name": "Chapainawabganj",
+                    "division_id": 2
+                },
+                {
+                    "id": 21,
+                    "name": "Naogaon",
+                    "division_id": 2
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Khulna",
+            "districts": [
+                {
+                    "id": 22,
+                    "name": "Jashore",
+                    "division_id": 3
+                },
+                {
+                    "id": 23,
+                    "name": "Satkhira",
+                    "division_id": 3
+                },
+                {
+                    "id": 24,
+                    "name": "Meherpur",
+                    "division_id": 3
+                },
+                {
+                    "id": 25,
+                    "name": "Narail",
+                    "division_id": 3
+                },
+                {
+                    "id": 26,
+                    "name": "Chuadanga",
+                    "division_id": 3
+                },
+                {
+                    "id": 27,
+                    "name": "Kushtia",
+                    "division_id": 3
+                },
+                {
+                    "id": 28,
+                    "name": "Magura",
+                    "division_id": 3
+                },
+                {
+                    "id": 29,
+                    "name": "Khulna",
+                    "division_id": 3
+                },
+                {
+                    "id": 30,
+                    "name": "Bagerhat",
+                    "division_id": 3
+                },
+                {
+                    "id": 31,
+                    "name": "Jhenaidah",
+                    "division_id": 3
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Barisal",
+            "districts": [
+                {
+                    "id": 32,
+                    "name": "Jhalakathi",
+                    "division_id": 4
+                },
+                {
+                    "id": 33,
+                    "name": "Patuakhali",
+                    "division_id": 4
+                },
+                {
+                    "id": 34,
+                    "name": "Pirojpur",
+                    "division_id": 4
+                },
+                {
+                    "id": 35,
+                    "name": "Barisal",
+                    "division_id": 4
+                },
+                {
+                    "id": 36,
+                    "name": "Bhola",
+                    "division_id": 4
+                },
+                {
+                    "id": 37,
+                    "name": "Barguna",
+                    "division_id": 4
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Sylhet",
+            "districts": [
+                {
+                    "id": 38,
+                    "name": "Sylhet",
+                    "division_id": 5
+                },
+                {
+                    "id": 39,
+                    "name": "Moulvibazar",
+                    "division_id": 5
+                },
+                {
+                    "id": 40,
+                    "name": "Habiganj",
+                    "division_id": 5
+                },
+                {
+                    "id": 41,
+                    "name": "Sunamganj",
+                    "division_id": 5
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Dhaka",
+            "districts": [
+                {
+                    "id": 42,
+                    "name": "Narsingdi",
+                    "division_id": 6
+                },
+                {
+                    "id": 43,
+                    "name": "Gazipur",
+                    "division_id": 6
+                },
+                {
+                    "id": 44,
+                    "name": "Shariatpur",
+                    "division_id": 6
+                },
+                {
+                    "id": 45,
+                    "name": "Narayanganj",
+                    "division_id": 6
+                },
+                {
+                    "id": 46,
+                    "name": "Tangail",
+                    "division_id": 6
+                },
+                {
+                    "id": 47,
+                    "name": "Kishoreganj",
+                    "division_id": 6
+                },
+                {
+                    "id": 48,
+                    "name": "Manikganj",
+                    "division_id": 6
+                },
+                {
+                    "id": 49,
+                    "name": "Dhaka",
+                    "division_id": 6
+                },
+                {
+                    "id": 50,
+                    "name": "Munshiganj",
+                    "division_id": 6
+                },
+                {
+                    "id": 51,
+                    "name": "Rajbari",
+                    "division_id": 6
+                },
+                {
+                    "id": 52,
+                    "name": "Madaripur",
+                    "division_id": 6
+                },
+                {
+                    "id": 53,
+                    "name": "Gopalganj",
+                    "division_id": 6
+                },
+                {
+                    "id": 54,
+                    "name": "Faridpur",
+                    "division_id": 6
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Rangpur",
+            "districts": [
+                {
+                    "id": 55,
+                    "name": "Panchagarh",
+                    "division_id": 7
+                },
+                {
+                    "id": 56,
+                    "name": "Dinajpur",
+                    "division_id": 7
+                },
+                {
+                    "id": 57,
+                    "name": "Lalmonirhat",
+                    "division_id": 7
+                },
+                {
+                    "id": 58,
+                    "name": "Nilphamari",
+                    "division_id": 7
+                },
+                {
+                    "id": 59,
+                    "name": "Gaibandha",
+                    "division_id": 7
+                },
+                {
+                    "id": 60,
+                    "name": "Thakurgaon",
+                    "division_id": 7
+                },
+                {
+                    "id": 61,
+                    "name": "Rangpur",
+                    "division_id": 7
+                },
+                {
+                    "id": 62,
+                    "name": "Kurigram",
+                    "division_id": 7
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Mymensingh",
+            "districts": [
+                {
+                    "id": 63,
+                    "name": "Sherpur",
+                    "division_id": 8
+                },
+                {
+                    "id": 64,
+                    "name": "Mymensingh",
+                    "division_id": 8
+                },
+                {
+                    "id": 65,
+                    "name": "Jamalpur",
+                    "division_id": 8
+                },
+                {
+                    "id": 66,
+                    "name": "Netrokona",
+                    "division_id": 8
+                }
+            ]
+        }
+    ]

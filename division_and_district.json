@@ -10,61 +10,51 @@
                 },
                 {
                     "id": 2,
-                    "name": "Comilla",
-                    "division_id": 1
-                },
-                {
-                    "id": 3,
-                    "name": "Comilla",
-                    "division_id": 1
-                },
-                {
-                    "id": 4,
                     "name": "Feni",
                     "division_id": 1
                 },
                 {
-                    "id": 5,
+                    "id": 3,
                     "name": "Brahmanbaria",
                     "division_id": 1
                 },
                 {
-                    "id": 6,
+                    "id": 4,
                     "name": "Rangamati",
                     "division_id": 1
                 },
                 {
-                    "id": 7,
+                    "id": 5,
                     "name": "Noakhali",
                     "division_id": 1
                 },
                 {
-                    "id": 8,
+                    "id": 6,
                     "name": "Chandpur",
                     "division_id": 1
                 },
                 {
-                    "id": 9,
+                    "id": 7,
                     "name": "Lakshmipur",
                     "division_id": 1
                 },
                 {
-                    "id": 10,
+                    "id": 8,
                     "name": "Chattogram",
                     "division_id": 1
                 },
                 {
-                    "id": 11,
+                    "id": 9,
                     "name": "Coxsbazar",
                     "division_id": 1
                 },
                 {
-                    "id": 12,
+                    "id": 10,
                     "name": "Khagrachhari",
                     "division_id": 1
                 },
                 {
-                    "id": 13,
+                    "id": 11,
                     "name": "Bandarban",
                     "division_id": 1
                 }
